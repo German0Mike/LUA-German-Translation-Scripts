@@ -3,7 +3,7 @@
 ]]
 print("->LUA-Skript: Talentmeister...geladen!")
 
-local npcid = 700005
+local npcid = 700001
 
 
 local function LoadDB(player)

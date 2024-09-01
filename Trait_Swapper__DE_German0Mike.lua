@@ -4,7 +4,7 @@
 print("->LUA-Skript: Volksfeahigkeiten...geladen!")
 RacialChangeNamespace = {}
 
-RacialChangeNamespace.NPC_ENTRY = 700001 -- NPC Trainer ID
+RacialChangeNamespace.NPC_ENTRY = 700002 -- NPC Trainer ID
 
 RacialChangeNamespace.RacialSpellsCombined = {
     [1] = {20864, 58985, 20597, 20598}, -- human

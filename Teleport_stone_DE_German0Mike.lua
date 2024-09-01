@@ -200,7 +200,7 @@
     -- Spielertreff
      
     if (intid == 13) then
-            player:Teleport(571, 5647.79, 684.738, 651.993, 2.68426)
+            player:Teleport(0, -8669.06, 626.752, 95.6903, 5.39616)
             player:GossipComplete()
     end
      

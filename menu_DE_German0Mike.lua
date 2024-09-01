@@ -47,7 +47,7 @@ local mingmrank = 3
 local IsGM = (player:GetGMRank() >= mingmrank)
 
 if not GMonly or IsGM then
-    player:SendBroadcastMessage("|cff3399FF Du kannst ein Extramenü aufrufen mit|cff00cc00 .menu |cff3399FF im Chat eingeben.")
+    player:SendBroadcastMessage("|cff3399FF Du kannst auch Extrabefehle ausführen. Mit|cff00cc00 .menu |cff3399FF öffnest du ein Extramenü. Für mehr Sammelberufeloot(Z.b. Bergbau) gebe folgendes ein |cff00cc00 .ga 1 oder 2 |cff3399FF")
 	end
 end
 
